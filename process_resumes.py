@@ -3,6 +3,18 @@ import pypandoc
 import os
 client = OpenAI()
 
+word_docs = []
+directory = r"/Users/ellacarter/Documents/PearlHacks/"
+for filename in os.listdir(directory):
+    f = os.path.join(directory, filename)
+    # checking if it is a file
+    if os.path.isfile(f):
+        if f[-5:] == ".docx":
+            word_docs.append(directory + f) #make sure this is the file name
+
+
+
+
 # Example file:
 docxFilename = r"/Users/ellacarter/Documents/resume.docx"
 output = pypandoc.convert_file(docxFilename, 'plain', outputfile="resume2.txt")

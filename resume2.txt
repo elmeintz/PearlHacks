@@ -1,0 +1,106 @@
+Ella Carter
+
+Charlotte, NC 28262 | ellahcarter42@gmail.com | (252) 678-0854 |
+linkedin.com/in/ellacarter42/
+
+  
+
+WORK EXPERIENCE
+
+Teaching Assistant, UNC CH Dept of Applied Sciences, Chapel Hill, NC
+January 2023-May 2023
+
+-   Mentored 60 students in designing and building projects using CAD
+    software and the technology in UNC’s makerspace. Examples of this
+    technology include 3D printers, circuitry equipment, and laser
+    cutters.
+
+-   Taught students to program Arduinos with Python
+
+-   Coordinated with five other TAs to host office hours, ensuring
+    widespread availability
+
+Climate Change Advocacy Intern, Working Landscapes, Warrenton, NC
+January 2021 – April 2021
+
+-   Created a literature review covering how climate change will impact
+    agriculture in NC
+
+-   Wrote a presentation for other food hubs in NC on how climate change
+    will impact their work and how they can adapt their programming to
+    take climate change into account; food hubs are facilities that
+    facilitate the distribution of locally grown produce
+
+Renewable Energy Education Intern, Center for Energy Education, Roanoke
+Rapids, NC
+
+May 2020 – August 2020 and May 2017 – September 2017
+
+-   Developed and delivered a report and presentation on racial equity
+    in the solar industry
+
+-   Researched and wrote script and delivered narration for a video on
+    climate change in NC
+
+-   Collaborated with four local teachers to design, run, and teach two
+    summer camps for middle school students about renewable energy
+
+-   Compiled a list of 400+ community leaders in Excel, then created and
+    sent each of them invitations to C4EE's grand opening in October of
+    2017
+
+COMPUTER SCIENCE PROJECTS
+
+Events Calendar, Class Project             April 2023
+
+-   Collaborated with a team of 4 and developed a fully functional web
+    application using the AngularJS framework. Our web app featured a
+    Python based backend, a SQLite database engine, a SQLAlchemy
+    database toolkit, and a FASTAPI RESTful API
+
+-   Managed code styling, test development, API creation. Also wrote
+    backend service functions.
+
+VOLUNTEER EXPERIENCE
+
+Hub Leader, Sunrise Movement, Warren County and Chapel Hill, NC
+September 2019-May 2021
+
+-   Sat outside UNC’s administrative building with posters every Friday
+    in a climate protest for six months
+
+-   Wrote an op-ed about the opportunity for renewable energy
+    development to create jobs that was published in a local newspaper
+
+-   Recruited 25 volunteers and provide them with materials to send
+    1,000 post cards to voters
+
+-   Organized a climate protest in Chapel Hill in December 2019 by
+    collaborating with 6 other activists to recruit 10 speakers, find
+    sound equipment, and distribute 150 flyers
+
+-   Made regular posts to the hub’s Instagram and Facebook pages
+
+SKILLS
+
+Programming Languages: Python (Advanced), Java (Advanced), JavaScript
+(Intermediate), SQL (Intermediate)
+
+Tech Tools: Tableau, GitHub, PVSyst, CAD software (AutoCAD, TinkerCAD
+and Sketchup)
+
+General Skills: Technical troubleshooting, data collection and analysis,
+report writing, knowledge of the renewable energy industry, meeting
+facilitation, technical communication, relationship building, public
+speaking
+
+EDUCATION
+
+University of North Carolina at Chapel Hill August 2023
+
+Bachelor of Arts: Computer Science – Minor in Environmental Science
+
+GPA: 3.4
+
+Related Coursework: Environmental Policy, Environmental Business,
+Software Engineering, Web Development
